@@ -1,1 +1,1 @@
-web: gunicorn Easier.wsgi:application --log-file-
+web: gunicorn easierfinal.wsgi:application
