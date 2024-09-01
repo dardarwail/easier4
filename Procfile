@@ -1,1 +1,1 @@
-web: gunicorn easierfinal.wsgi:application
+web: gunicorn Easier.wsgi:application
