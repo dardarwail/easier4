@@ -16,6 +16,7 @@ from decouple import config
 
 
 
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -34,7 +35,7 @@ EMAIL_PORT = EMAIL_PORT
 SECRET_KEY = os.getenv('DJANGO_SECRET_KEY', '4p9@s1#fjw+&!o$g%9!8s7nh(5$*b$3%prg=ei!@hepq3m@dzg')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
