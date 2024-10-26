@@ -4,5 +4,5 @@
 
 ## Introduction
 
-* [Page 1](introduction/page-1/README.md)
-  * [Page 2](introduction/page-1/page-2.md)
+* [About](introduction/about/README.md)
+  * [Page 2](introduction/about/page-2.md)
